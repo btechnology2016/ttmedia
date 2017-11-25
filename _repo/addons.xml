@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addons>
+    <addon id="repository.ttmmedia" name="TTMMedia" version="0.0.1" provider-name="Team TTM">
+        <requires>
+            <import addon="xbmc.addon" version="12.0.0"/>
+        </requires>
+        <extension point="xbmc.addon.repository" name="TTMMedia">
+            <info compressed="false">https://github.com/btechnology2016/ttmedia/_repo/addons.xml</info>
+            <checksum>https://github.com/btechnology2016/ttmedia/_repo/addons.xml.md5</checksum>
+            <datadir zip="true">https://github.com/btechnology2016/ttmedia/_repo/</datadir>
+            <hashes>false</hashes>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+            <summary>Respository for TTM Media</summary>
+            <description>Used to hold some of the best information ever.</description>
+            <platform>all</platform>
+    </extension>
+</addon>
+</addons>
