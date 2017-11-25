@@ -1,2 +1,0 @@
-# ttmedia
-TTM Media Repo
